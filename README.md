@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yusuf Rasheed 👋
 
-<!--
-**Thevariance/Thevariance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Data Scientist | 📊 Statistics Graduate  
+🔍 Passionate about solving real-life problems using data science  
+🌍 Focus: Insecurity, Economic Development, Manufacturing in Africa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+- Programming: Python, R, SQL
+- Data Analysis: Pandas, NumPy, Excel
+- Visualization: Matplotlib, Seaborn, Power BI
+- ML: Scikit-learn (learning), TensorFlow (exploring)
+- Others: Git, GitHub, Jupyter, VSCode
+
+---
+
+## 📘 Learning Path
+- [ ] Master Python for Data Analysis
+- [ ] Build ML Models
+- [ ] Complete Kaggle Competitions
+- [ ] Publish Personal Projects
+
+---
+
+## 📌 Highlighted Projects
+- [Nigeria Insecurity Data Analysis](#) *(coming soon)*
+- [EDA on World Bank Economic Indicators](#)
+- [Stock Price Prediction using LSTM](#)
+- [COVID-19 Data Visualization Dashboard](#)
+
+---
+
+📫 **Let’s connect**: https://www.linkedin.com/in/yusuf24434(#) | [Twitter](#) | yusufrasheed24434@gmail.com(#)
+
